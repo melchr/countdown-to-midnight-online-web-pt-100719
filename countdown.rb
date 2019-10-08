@@ -7,3 +7,6 @@ def countdown(x)
   end
   "HAPPY NEW YEAR!"
 end
+
+def countdown_with_sleep(x)
+  while x > 0
